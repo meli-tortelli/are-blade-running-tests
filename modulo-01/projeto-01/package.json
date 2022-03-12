@@ -1,0 +1,17 @@
+{
+  "name": "projeto-01",
+  "version": "1.0.0",
+  "private": true,
+  "description": "First test for study purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "meli-tortelli",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "jest": "^27.5.1"
+  }
+}
