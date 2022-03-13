@@ -5,7 +5,9 @@
   "description": "First test for study purpose",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:watch": "jest --watchAll --maxWorkers=25%",
+    "test:ci": "jest --runInBand"
   },
   "keywords": [],
   "author": "meli-tortelli",
